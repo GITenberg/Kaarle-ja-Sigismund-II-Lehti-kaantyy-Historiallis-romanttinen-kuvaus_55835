@@ -1,0 +1,35 @@
+_repo: Kaarle-ja-Sigismund-II-Lehti-kaantyy-Historiallis-romanttinen-kuvaus_55835
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Soini, Lauri
+    aliases:
+    - Soininen, L.
+    - Ahava, Juho
+    - Sauramo, Lauri
+    birthdate: 1875
+    deathdate: 1919
+    gutenberg_agent_id: '42573'
+    url: http://www.gutenberg.org/2009/agents/42573
+    wikipedia: https://fi.wikipedia.org/wiki/Lauri_Soini
+creator:
+  author:
+    agent_name: Stjernström, Louise
+    alias: Blink, Carl
+    gutenberg_agent_id: '48264'
+    url: http://www.gutenberg.org/2009/agents/48264
+description: ''
+gutenberg_issued: '2017-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55835'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kaarle ja Sigismund II: Lehti kääntyy
+
+  Historiallis-romanttinen kuvaus'
+url: http://www.gutenberg.org/ebooks/55835
